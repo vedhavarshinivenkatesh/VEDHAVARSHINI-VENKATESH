@@ -22,7 +22,7 @@
 
 ### 📫 Connect with Me
 
-* **GitHub:** [@vedhavarshiniv](https://github.com/vedhavarshiniv)
+* **GitHub:** [@vedhavarshinivenkatesh](https://github.com/vedhavarshinivenkatesh/VEDHAVARSHINI-VENKATESH)
 * **LinkedIn:** Add your LinkedIn profile URL here.
 * **College:** Chennai Institute of Technology, Chennai
 
